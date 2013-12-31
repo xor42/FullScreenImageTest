@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FullScreenImageTest/FullScreenImageTest.iml" filepath="$PROJECT_DIR$/FullScreenImageTest/FullScreenImageTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FullScreenImageTestProject.iml" filepath="$PROJECT_DIR$/FullScreenImageTestProject.iml" />
+    </modules>
+  </component>
+</project>
+
