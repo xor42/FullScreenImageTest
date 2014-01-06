@@ -3,5 +3,8 @@
 
     <string name="action_settings">Einstellungen</string>
     <string name="hello_world">Hallo Welt!</string>
+    <string name="hello_test3">Hallo Welt!</string>
+    <string name="hello_test">Hallo Welt!</string>
+    <string name="hello_test2">Hallo Welt!</string>
 
 </resources>
